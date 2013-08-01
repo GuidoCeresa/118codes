@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>descrizioneProtocollo</key>
+	<string>Sedation-Agitation Scale</string>
+	<key>numeroIniziale</key>
+	<integer>7</integer>
+	<key>usaNumeri</key>
+	<true/>
+	<key>valori</key>
+	<array>
+		<string>Tentativi di rimozione del TET e/o cateteri; tentativi di scavalcare le sponde del letto; atti violenti verso l’operatore; dondolamento da un lato all’altro del letto</string>
+		<string>Colpisce il TET; non si calma nonostante ripetute spiegazioni; necessità di immobilizzazione fisica</string>
+		<string>Ansioso o moderatamente agitato, tentativi di mettersi seduto; si calma in seguito a istruzioni verbali</string>
+		<string>Calmo, si sveglia facilmente; esegue comandi.</string>
+		<string>Difficilmente responsivo; svegliabile a stimoli verbali o gentilmente scosso ma si riaddormenta; esegue comandi semplici</string>
+		<string>Svegliabile a stimoli fisici ma non comunica né esegue comandi; potrebbe muoversi spontaneamente</string>
+		<string>Risposta minima o assente a stimoli nocivi; non comunica né esegue comandi</string>
+	</array>
+</dict>
+</plist>

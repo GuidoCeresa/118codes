@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>descrizioneProtocollo</key>
+	<string>Gravità di un’emorragia subaracnoidea</string>
+	<key>numeroIniziale</key>
+	<integer>0</integer>
+	<key>usaNumeri</key>
+	<true/>
+	<key>valori</key>
+	<array>
+		<string>Asintomatico o portatore di un aneurisma che non ha sanguinato </string>
+		<string>Asintomatico o minima cefalea </string>
+		<string>Cefalea moderata-severa con rigidità nucale ed eventale deficit nervi cranici </string>
+		<string>Soporoso, confusione o lievi deficit focali </string>
+		<string>Stupor con moderata o grave emiparesi </string>
+		<string>Coma profondo, precoce crisi in decerebrazione </string>
+	</array>
+</dict>
+</plist>

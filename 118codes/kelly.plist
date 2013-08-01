@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>descrizioneProtocollo</key>
+	<string>Valutazione dello stato di coscienza</string>
+	<key>numeroIniziale</key>
+	<integer>1</integer>
+	<key>usaNumeri</key>
+	<true/>
+	<key>valori</key>
+	<array>
+		<string>SVEGLIO. Esegue 3 ordini complessi</string>
+		<string>SVEGLIO. Esegue ordini semplici</string>
+		<string>SONNOLENTO. Risvegliabile al comando verbale</string>
+		<string>SOPOROSO. Risvegliabile allo stimolo doloroso</string>
+		<string>IN COMA. Senza alterazione del tronco encefalico</string>
+		<string>IN COMA. Con alterazione del tronco encefalico</string>
+	</array>
+</dict>
+</plist>

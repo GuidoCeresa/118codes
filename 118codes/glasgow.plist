@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>descrizioneProtocollo</key>
+	<string>Scala di rappresentazione neurologica Glasgow Coma Scale</string>
+	<key>valoriOpzioniProtocollo</key>
+	<array>
+		<dict>
+			<key>dettaglioOpzione</key>
+			<string></string>
+			<key>nomeOpzione</key>
+			<string>Apertura degli occhi</string>
+			<key>valoriParametriOpzione</key>
+			<array>
+				<dict>
+					<key>dettaglioParametro</key>
+					<string>4</string>
+					<key>nomeParametro</key>
+					<string>Spontanea</string>
+					<key>valoreParametro</key>
+					<integer>4</integer>
+				</dict>
+				<dict>
+					<key>dettaglioParametro</key>
+					<string>3</string>
+					<key>nomeParametro</key>
+					<string>Alla voce</string>
+					<key>valoreParametro</key>
+					<integer>3</integer>
+				</dict>
+				<dict>
+					<key>dettaglioParametro</key>
+					<string>2</string>
+					<key>nomeParametro</key>
+					<string>Al dolore</string>
+					<key>valoreParametro</key>
+					<integer>2</integer>
+				</dict>
+				<dict>
+					<key>dettaglioParametro</key>
+					<string>1</string>
+					<key>nomeParametro</key>
+					<string>Nessuna</string>
+					<key>valoreParametro</key>
+					<integer>1</integer>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>dettaglioOpzione</key>
+			<string></string>
+			<key>nomeOpzione</key>
+			<string>Risposta verbale</string>
+			<key>valoriParametriOpzione</key>
+			<array>
+				<dict>
+					<key>dettaglioParametro</key>
+					<string>5</string>
+					<key>nomeParametro</key>
+					<string>Orientata</string>
+					<key>valoreParametro</key>
+					<integer>5</integer>
+				</dict>
+				<dict>
+					<key>dettaglioParametro</key>
+					<string>4</string>
+					<key>nomeParametro</key>
+					<string>Confusa</string>
+					<key>valoreParametro</key>
+					<integer>4</integer>
+				</dict>
+				<dict>
+					<key>dettaglioParametro</key>
+					<string>3</string>
+					<key>nomeParametro</key>
+					<string>Parole inappropriate</string>
+					<key>valoreParametro</key>
+					<integer>3</integer>
+				</dict>
+				<dict>
+					<key>dettaglioParametro</key>
+					<string>2</string>
+					<key>nomeParametro</key>
+					<string>Suoni incomprensibili</string>
+					<key>valoreParametro</key>
+					<integer>2</integer>
+				</dict>
+				<dict>
+					<key>dettaglioParametro</key>
+					<string>1</string>
+					<key>nomeParametro</key>
+					<string>Nessuna</string>
+					<key>valoreParametro</key>
+					<integer>1</integer>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>dettaglioOpzione</key>
+			<string></string>
+			<key>nomeOpzione</key>
+			<string>Risposta motoria</string>
+			<key>valoriParametriOpzione</key>
+			<array>
+				<dict>
+					<key>dettaglioParametro</key>
+					<string>6</string>
+					<key>nomeParametro</key>
+					<string>Esegue a comando</string>
+					<key>valoreParametro</key>
+					<integer>6</integer>
+				</dict>
+				<dict>
+					<key>dettaglioParametro</key>
+					<string>5</string>
+					<key>nomeParametro</key>
+					<string>Localizza il dolore</string>
+					<key>valoreParametro</key>
+					<integer>5</integer>
+				</dict>
+				<dict>
+					<key>dettaglioParametro</key>
+					<string>4</string>
+					<key>nomeParametro</key>
+					<string>Retrazione (dolore)</string>
+					<key>valoreParametro</key>
+					<integer>4</integer>
+				</dict>
+				<dict>
+					<key>dettaglioParametro</key>
+					<string>3</string>
+					<key>nomeParametro</key>
+					<string>Flessione (dolore)</string>
+					<key>valoreParametro</key>
+					<integer>3</integer>
+				</dict>
+				<dict>
+					<key>dettaglioParametro</key>
+					<string>2</string>
+					<key>nomeParametro</key>
+					<string>Estensione (dolore)</string>
+					<key>valoreParametro</key>
+					<integer>2</integer>
+				</dict>
+				<dict>
+					<key>dettaglioParametro</key>
+					<string>1</string>
+					<key>nomeParametro</key>
+					<string>Nessuna</string>
+					<key>valoreParametro</key>
+					<integer>1</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

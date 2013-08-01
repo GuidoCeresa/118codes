@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>descrizioneProtocollo</key>
+	<string>Correla il grado di scompenso del VS secondario ad IMA con la mortalità ospedaliera</string>
+	<key>numeroIniziale</key>
+	<integer>1</integer>
+	<key>usaNumeri</key>
+	<true/>
+	<key>valori</key>
+	<array>
+		<string>Assenza di 3° tono e di stasi polmonare</string>
+		<string>3° tono; rantoli alle basi</string>
+		<string>Edema polmonare acuto</string>
+		<string>Shock cardiogeno</string>
+	</array>
+</dict>
+</plist>

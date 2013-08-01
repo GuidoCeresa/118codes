@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>descrizioneProtocollo</key>
+	<string>Valuta il rischio anestesiologico e chirurgico in funzione dello stato di salute del paziente.</string>
+	<key>numeroIniziale</key>
+	<integer>0</integer>
+	<key>usaNumeri</key>
+	<true/>
+	<key>valori</key>
+	<array>
+		<string>Paziente sano </string>
+		<string>Presenza di una lieve malattia sistemica senza nessuna limitazione funzionale; bronchite cronica; obesità moderata; diabete ben controllato; infarto miocardico di vecchia data; ipertensione moderata</string>
+		<string>Presenza di una malattia sistemica grave con limitazione funzionale di grado moderato; angina pectoris ben controllata nella terapia; diabete insulino dipendente; obesità patologica; insufficienza respiratoria moderata</string>
+		<string>Presenza di una malattia sistemica grave che costituisce un pericolo costante per la sopravvivenza; insufficienza cardiaca severa; angina pectoris &quot;instabile&quot;, poco sensibile al trattamento;
+insufficienza respiratoria, renale, epatica od endocrina di grado avanzato</string>
+		<string>Paziente moribondo, la cui sopravvivenza non è garantita per 24 ore, con o senza intervento chirurgico come nel caso di shock da rottura di aneurisma; politraumatizzato grave</string>
+	</array>
+</dict>
+</plist>

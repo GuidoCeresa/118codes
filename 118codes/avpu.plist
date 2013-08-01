@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>descrizioneProtocollo</key>
+	<string>Valutazione dello stato neurologico. Alert, Verbal, Pain, Unresponsive.</string>
+	<key>numeroIniziale</key>
+	<integer>1</integer>
+	<key>usaNumeri</key>
+	<false/>
+	<key>valori</key>
+	<array>
+		<string>Alert (vigile): in questa fase il paziente è sveglio e cosciente. Questo stato viene valutato positivamente se il paziente riesce a rispondere in maniera chiara a semplici domande quali: Cosa è successo? o Come si chiama?</string>
+		<string>Verbal (verbale): in questa fase il paziente risponde agli stimoli verbali attraverso gli occhi, la voce (o bisbigli) o atti motori, ma risulta confuso o assopito.</string>
+		<string>Pain (dolore): in questa fase il paziente non risponde agli stimoli verbali ma soltanto agli stimoli dolorosi che in genere vengono indotti con piccoli colpi delle dita sopra l&apos;arcata sopraccigliare, al centro della fronte.</string>
+		<string>Unresponsive (senza risposta): in questa fase il paziente non risponde né agli stimoli verbali né a quelli dolorosi e risulta quindi completamente incosciente.
+Unresponsive&apos;&apos;&apos; (senza risposta): in questa fase il paziente non risponde né agli stimoli verbali né a quelli dolorosi e risulta quindi completamente incosciente.
+Unresponsive&apos;&apos;&apos; (senza risposta): in questa fase il paziente non risponde né agli stimoli verbali né a quelli dolorosi e risulta quindi completamente incosciente.</string>
+	</array>
+</dict>
+</plist>

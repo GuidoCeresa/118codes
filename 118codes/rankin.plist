@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>descrizioneProtocollo</key>
+	<string>Capacità di effettuare le normali attività</string>
+	<key>numeroIniziale</key>
+	<integer>0</integer>
+	<key>usaNumeri</key>
+	<true/>
+	<key>valori</key>
+	<array>
+		<string>Nessun sintomo</string>
+		<string>Nessuna disabilità significativa malgrado i sintomi: è in grado di svolgere tutte le attività ed i compiti abituali</string>
+		<string>Disabilità lieve: non riesce più a svolgere tutte le attività precedenti, ma è autonomo nel camminare e nelle attività quotidiane</string>
+		<string>Disabilità moderata: richiede qualche aiuto nelle attività della vita quotidiana, ma cammina senza assistenza</string>
+		<string>Disabilità moderatamente grave: non è più in grado di camminare senza aiuto né di badare ai propri bisogni corporali</string>
+		<string>Disabilità grave: costretto a letto, incontinente e bisognoso di assistenza infermieristica costante</string>
+	</array>
+</dict>
+</plist>

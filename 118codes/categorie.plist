@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Anestesiologia</key>
+	<string></string>
+	<key>Cardiologia</key>
+	<string></string>
+	<key>Neurologia</key>
+	<string></string>
+	<key>Pediatria</key>
+	<string></string>
+	<key>Respiratorio</key>
+	<string></string>
+	<key>Scale</key>
+	<string></string>
+	<key>Trauma</key>
+	<string></string>
+</dict>
+</plist>

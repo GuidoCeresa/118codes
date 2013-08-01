@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>descrizioneProtocollo</key>
+	<string>Scala di valutazione verbale, si chiede di far indicare al paziente con una crocetta la parola che meglio esprime il suo dolore.</string>
+	<key>numeroIniziale</key>
+	<string>0</string>
+	<key>usaNumeri</key>
+	<true/>
+	<key>valori</key>
+	<array>
+		<dict>
+			<key>descrizioneValore</key>
+			<string>dolore assente</string>
+			<key>valoreColore</key>
+			<string>ffeeaa</string>
+		</dict>
+		<dict>
+			<key>descrizioneValore</key>
+			<string>dolore leggero</string>
+			<key>valoreColore</key>
+			<string>ffcc88</string>
+		</dict>
+		<dict>
+			<key>descrizioneValore</key>
+			<string>dolore che mette a disagio</string>
+			<key>valoreColore</key>
+			<string>ffaa66</string>
+		</dict>
+		<dict>
+			<key>descrizioneValore</key>
+			<string>dolore che angoscia</string>
+			<key>valoreColore</key>
+			<string>ff8844</string>
+		</dict>
+		<dict>
+			<key>descrizioneValore</key>
+			<string>dolore orribile</string>
+			<key>valoreColore</key>
+			<string>ff6622</string>
+		</dict>
+		<dict>
+			<key>descrizioneValore</key>
+			<string>dolore atroce</string>
+			<key>valoreColore</key>
+			<string>ff4400</string>
+		</dict>
+	</array>
+</dict>
+</plist>

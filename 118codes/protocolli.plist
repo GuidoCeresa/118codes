@@ -1,0 +1,407 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>apgar</key>
+	<dict>
+		<key>categorie</key>
+		<string>pediatria, scale</string>
+		<key>chiave</key>
+		<string>apgar</string>
+		<key>preferito</key>
+		<false/>
+		<key>segue</key>
+		<string></string>
+		<key>sottoTitolo</key>
+		<string>Indice di vitalità alla nascita</string>
+		<key>titoloFinestra</key>
+		<string></string>
+		<key>titoloLista</key>
+		<string>Apgar</string>
+		<key>visibile</key>
+		<true/>
+	</dict>
+	<key>asa</key>
+	<dict>
+		<key>categorie</key>
+		<string>anestesiologia, scale</string>
+		<key>chiave</key>
+		<string>asa</string>
+		<key>preferito</key>
+		<false/>
+		<key>segue</key>
+		<string>segueLabel</string>
+		<key>sottoTitolo</key>
+		<string>Stato di salute del paziente</string>
+		<key>titoloFinestra</key>
+		<string></string>
+		<key>titoloLista</key>
+		<string>ASA</string>
+		<key>visibile</key>
+		<true/>
+	</dict>
+	<key>avpu</key>
+	<dict>
+		<key>categorie</key>
+		<string>neurologia, scale</string>
+		<key>chiave</key>
+		<string>avpu</string>
+		<key>preferito</key>
+		<false/>
+		<key>segue</key>
+		<string>segueLabel</string>
+		<key>sottoTitolo</key>
+		<string>Valutazione dello stato neurologico</string>
+		<key>titoloFinestra</key>
+		<string>AVPU</string>
+		<key>titoloLista</key>
+		<string>AVPU</string>
+		<key>visibile</key>
+		<true/>
+	</dict>
+	<key>chest</key>
+	<dict>
+		<key>categorie</key>
+		<string>cardiologia, scale</string>
+		<key>chiave</key>
+		<string>chest</string>
+		<key>preferito</key>
+		<false/>
+		<key>segue</key>
+		<string>segueOpzioni</string>
+		<key>sottoTitolo</key>
+		<string>Valutazione del dolore toracico</string>
+		<key>titoloFinestra</key>
+		<string>CPS</string>
+		<key>titoloLista</key>
+		<string>Chest Pain Score</string>
+		<key>visibile</key>
+		<true/>
+	</dict>
+	<key>cincinnati</key>
+	<dict>
+		<key>categorie</key>
+		<string>neurologia, scale</string>
+		<key>chiave</key>
+		<string>cincinnati</string>
+		<key>preferito</key>
+		<false/>
+		<key>segue</key>
+		<string>segueOpzioni</string>
+		<key>sottoTitolo</key>
+		<string>Presenza di ictus</string>
+		<key>titoloFinestra</key>
+		<string></string>
+		<key>titoloLista</key>
+		<string>Cincinnati</string>
+		<key>visibile</key>
+		<true/>
+	</dict>
+	<key>glasgow</key>
+	<dict>
+		<key>categorie</key>
+		<string>neurologia, scale, trauma</string>
+		<key>chiave</key>
+		<string>glasgow</string>
+		<key>preferito</key>
+		<false/>
+		<key>segue</key>
+		<string>segueOpzioni</string>
+		<key>sottoTitolo</key>
+		<string>Glasgow Coma Scale</string>
+		<key>titoloFinestra</key>
+		<string>GCS</string>
+		<key>titoloLista</key>
+		<string>Glasgow</string>
+		<key>visibile</key>
+		<true/>
+	</dict>
+	<key>glasgowped</key>
+	<dict>
+		<key>categorie</key>
+		<string>neurologia, pediatria, scale, trauma</string>
+		<key>chiave</key>
+		<string>glasgowped</string>
+		<key>preferito</key>
+		<false/>
+		<key>segue</key>
+		<string>segueOpzioni</string>
+		<key>sottoTitolo</key>
+		<string>Glagow Pediatric Coma Scale</string>
+		<key>titoloFinestra</key>
+		<string>GCS pediatrica</string>
+		<key>titoloLista</key>
+		<string>Glasgow pediatrica</string>
+		<key>visibile</key>
+		<true/>
+	</dict>
+	<key>hunt</key>
+	<dict>
+		<key>categorie</key>
+		<string>scale, anestesiologia, cardiologia</string>
+		<key>chiave</key>
+		<string>hunt</string>
+		<key>preferito</key>
+		<false/>
+		<key>segue</key>
+		<string>segueLabel</string>
+		<key>sottoTitolo</key>
+		<string>Gravità di un&apos;emorragia</string>
+		<key>titoloFinestra</key>
+		<string></string>
+		<key>titoloLista</key>
+		<string>Hunt e Hess</string>
+		<key>visibile</key>
+		<true/>
+	</dict>
+	<key>infusion</key>
+	<dict>
+		<key>categorie</key>
+		<string>cardiologia</string>
+		<key>chiave</key>
+		<string>infusion</string>
+		<key>preferito</key>
+		<false/>
+		<key>segue</key>
+		<string></string>
+		<key>sottoTitolo</key>
+		<string>non lo so</string>
+		<key>titoloFinestra</key>
+		<string></string>
+		<key>titoloLista</key>
+		<string>Infusion Drip</string>
+		<key>visibile</key>
+		<true/>
+	</dict>
+	<key>kelly</key>
+	<dict>
+		<key>categorie</key>
+		<string>neurologia, scale, respiratoria</string>
+		<key>chiave</key>
+		<string>kelly</string>
+		<key>preferito</key>
+		<false/>
+		<key>segue</key>
+		<string>segueLabel</string>
+		<key>sottoTitolo</key>
+		<string>Valutazione dello stato di coscienza</string>
+		<key>titoloFinestra</key>
+		<string></string>
+		<key>titoloLista</key>
+		<string>Kelly</string>
+		<key>visibile</key>
+		<true/>
+	</dict>
+	<key>killip</key>
+	<dict>
+		<key>categorie</key>
+		<string>scale</string>
+		<key>chiave</key>
+		<string>killip</string>
+		<key>preferito</key>
+		<false/>
+		<key>segue</key>
+		<string>segueLabel</string>
+		<key>sottoTitolo</key>
+		<string>killip</string>
+		<key>titoloFinestra</key>
+		<string></string>
+		<key>titoloLista</key>
+		<string>Killip</string>
+		<key>visibile</key>
+		<false/>
+	</dict>
+	<key>mallampati</key>
+	<dict>
+		<key>categorie</key>
+		<string>anestesiologia, scale</string>
+		<key>chiave</key>
+		<string>mallampati</string>
+		<key>preferito</key>
+		<false/>
+		<key>segue</key>
+		<string></string>
+		<key>sottoTitolo</key>
+		<string>Previsione per le difficoltà di intubazione</string>
+		<key>titoloFinestra</key>
+		<string></string>
+		<key>titoloLista</key>
+		<string>Mallampati</string>
+		<key>visibile</key>
+		<true/>
+	</dict>
+	<key>os2tank</key>
+	<dict>
+		<key>categorie</key>
+		<string></string>
+		<key>chiave</key>
+		<string>os2tank</string>
+		<key>preferito</key>
+		<false/>
+		<key>segue</key>
+		<string></string>
+		<key>sottoTitolo</key>
+		<string>non lo so</string>
+		<key>titoloFinestra</key>
+		<string></string>
+		<key>titoloLista</key>
+		<string>ossigeno</string>
+		<key>visibile</key>
+		<false/>
+	</dict>
+	<key>ramsay</key>
+	<dict>
+		<key>categorie</key>
+		<string>scale</string>
+		<key>chiave</key>
+		<string>ramsay</string>
+		<key>preferito</key>
+		<false/>
+		<key>segue</key>
+		<string>segueLabel</string>
+		<key>sottoTitolo</key>
+		<string>Monitoraggio della sedazione in terapia intensiva</string>
+		<key>titoloFinestra</key>
+		<string></string>
+		<key>titoloLista</key>
+		<string>Ramsay</string>
+		<key>visibile</key>
+		<false/>
+	</dict>
+	<key>rankin</key>
+	<dict>
+		<key>categorie</key>
+		<string>neurologia, scale</string>
+		<key>chiave</key>
+		<string>rankin</string>
+		<key>preferito</key>
+		<false/>
+		<key>segue</key>
+		<string>segueLabel</string>
+		<key>sottoTitolo</key>
+		<string>Capacità di effettuare attività</string>
+		<key>titoloFinestra</key>
+		<string></string>
+		<key>New item</key>
+		<string></string>
+		<key>titoloLista</key>
+		<string>Rankin</string>
+		<key>visibile</key>
+		<true/>
+	</dict>
+	<key>regola9</key>
+	<dict>
+		<key>categorie</key>
+		<string>trauma</string>
+		<key>chiave</key>
+		<string>regola9</string>
+		<key>preferito</key>
+		<false/>
+		<key>segue</key>
+		<string></string>
+		<key>sottoTitolo</key>
+		<string>Stima l’estensione di una ustione</string>
+		<key>titoloFinestra</key>
+		<string></string>
+		<key>titoloLista</key>
+		<string>Regola del 9</string>
+		<key>visibile</key>
+		<true/>
+	</dict>
+	<key>regola9ped</key>
+	<dict>
+		<key>categorie</key>
+		<string>trauma, pediatria</string>
+		<key>chiave</key>
+		<string>regola9ped</string>
+		<key>preferito</key>
+		<false/>
+		<key>segue</key>
+		<string></string>
+		<key>sottoTitolo</key>
+		<string>Stima l’estensione di una ustione</string>
+		<key>titoloFinestra</key>
+		<string></string>
+		<key>titoloLista</key>
+		<string>Regola del 9 pediatrica</string>
+		<key>visibile</key>
+		<true/>
+	</dict>
+	<key>riker</key>
+	<dict>
+		<key>categorie</key>
+		<string>scale</string>
+		<key>chiave</key>
+		<string>riker</string>
+		<key>preferito</key>
+		<false/>
+		<key>segue</key>
+		<string>segueLabel</string>
+		<key>sottoTitolo</key>
+		<string>Sedation-Agitation Scale (SAS)</string>
+		<key>titoloFinestra</key>
+		<string></string>
+		<key>titoloLista</key>
+		<string>Riker</string>
+		<key>visibile</key>
+		<false/>
+	</dict>
+	<key>rts</key>
+	<dict>
+		<key>categorie</key>
+		<string>trauma, scale</string>
+		<key>chiave</key>
+		<string>rts</string>
+		<key>preferito</key>
+		<false/>
+		<key>segue</key>
+		<string></string>
+		<key>sottoTitolo</key>
+		<string>non lo so</string>
+		<key>titoloFinestra</key>
+		<string>RTS</string>
+		<key>titoloLista</key>
+		<string>Revised Trauma Score</string>
+		<key>visibile</key>
+		<true/>
+	</dict>
+	<key>schock</key>
+	<dict>
+		<key>categorie</key>
+		<string>anestesiologia, cardiologia, trauma</string>
+		<key>chiave</key>
+		<string>shock</string>
+		<key>preferito</key>
+		<false/>
+		<key>segue</key>
+		<string></string>
+		<key>sottoTitolo</key>
+		<string></string>
+		<key>titoloFinestra</key>
+		<string></string>
+		<key>titoloLista</key>
+		<string>Indice di shock</string>
+		<key>visibile</key>
+		<true/>
+	</dict>
+	<key>vrs</key>
+	<dict>
+		<key>categorie</key>
+		<string>dolore, scale</string>
+		<key>chiave</key>
+		<string>vrs</string>
+		<key>preferito</key>
+		<false/>
+		<key>segue</key>
+		<string>segueColorata</string>
+		<key>sottoTitolo</key>
+		<string>Scale verbale di valutazione del dolore</string>
+		<key>titoloFinestra</key>
+		<string>VRS</string>
+		<key>titoloLista</key>
+		<string>VRS</string>
+		<key>visibile</key>
+		<true/>
+	</dict>
+</dict>
+</plist>

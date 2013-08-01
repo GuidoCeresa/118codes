@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>descrizioneProtocollo</key>
+	<string>Scala di classificazione della profondità della sedazione</string>
+	<key>numeroIniziale</key>
+	<integer>1</integer>
+	<key>usaNumeri</key>
+	<true/>
+	<key>valori</key>
+	<array>
+		<string>Paziente sveglio, ma ansioso, agitato, incapace di stare fermo</string>
+		<string>Paziente sveglio, tranquillo, orientato, in grado di collaborare</string>
+		<string>Paziente sveglio, tranquillo, risponde al comando verbale</string>
+		<string>Paziente addormentato, risponde solo alla chiamata verbale energica od allo stimolo fisico intenso</string>
+		<string>Paziente addormentato, risponde a fatica allo stimolo verbale e fisico intenso</string>
+		<string>Paziente addormentato e incapace di risposta</string>
+	</array>
+</dict>
+</plist>

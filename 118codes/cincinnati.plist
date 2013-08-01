@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>descrizioneProtocollo</key>
+	<string>Scala di valutazione neurologica impiegata per diagnosticare la presenza di ictus</string>
+	<key>valoriOpzioniProtocollo</key>
+	<array>
+		<dict>
+			<key>dettaglioOpzione</key>
+			<string>Localizzazione del dolore</string>
+			<key>nomeOpzione</key>
+			<string>Mimica facciale</string>
+			<key>valoriParametriOpzione</key>
+			<array>
+				<dict>
+					<key>dettaglioParametro</key>
+					<string>Entrambi i lati del viso si muovono allo stesso modo</string>
+					<key>nomeParametro</key>
+					<string>Normale</string>
+					<key>nomeImmagine</key>
+					<string>FacciaPositiva</string>
+					<key>valoreParametro</key>
+					<integer>0</integer>
+				</dict>
+				<dict>
+					<key>dettaglioParametro</key>
+					<string>Un lato del viso si muove differentemente dall&apos;altro</string>
+					<key>nomeParametro</key>
+					<string>Anormale</string>
+					<key>nomeImmagine</key>
+					<string>FacciaNegativa</string>
+					<key>valoreParametro</key>
+					<integer>1</integer>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>dettaglioOpzione</key>
+			<string></string>
+			<key>nomeOpzione</key>
+			<string>Spostamento delle braccia</string>
+			<key>valoriParametriOpzione</key>
+			<array>
+				<dict>
+					<key>dettaglioParametro</key>
+					<string>Entrambi gli arti si muovono allo stesso modo</string>
+					<key>nomeParametro</key>
+					<string>Normale</string>
+					<key>nomeImmagine</key>
+					<string>BracciaPositiva</string>
+					<key>valoreParametro</key>
+					<integer>0</integer>
+				</dict>
+				<dict>
+					<key>dettaglioParametro</key>
+					<string>Un arto cade o si muove differentemente rispetto all&apos;altro</string>
+					<key>nomeParametro</key>
+					<string>Anormale</string>
+					<key>nomeImmagine</key>
+					<string>BracciaNegativa</string>
+					<key>valoreParametro</key>
+					<integer>1</integer>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>dettaglioOpzione</key>
+			<string></string>
+			<key>nomeOpzione</key>
+			<string>Linguaggio</string>
+			<key>valoriParametriOpzione</key>
+			<array>
+				<dict>
+					<key>dettaglioParametro</key>
+					<string>Il paziente pronuncia correttamente una frase</string>
+					<key>nomeParametro</key>
+					<string>Normale</string>
+					<key>valoreParametro</key>
+					<integer>0</integer>
+				</dict>
+				<dict>
+					<key>dettaglioParametro</key>
+					<string>Il paziente sbaglia le parole, le strascica od è incapace di parlare</string>
+					<key>nomeParametro</key>
+					<string>Anormale</string>
+					<key>valoreParametro</key>
+					<integer>1</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>
